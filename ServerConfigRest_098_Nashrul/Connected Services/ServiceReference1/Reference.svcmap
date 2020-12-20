@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6484e304-41d9-4ad4-bbfa-9deef95bb0b8" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/ServiceRest_098_Nashrul/Service1/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="5a05b3d4-f2ac-48e2-98c5-65893cb0eeda" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceRest_098_Nashrul/Service1/?xsd=xsd2" />
+    <MetadataFile FileName="TI_UMY.wsdl" MetadataType="Wsdl" ID="b5917dab-ab0a-4d3b-90db-53c0cae96c3d" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceRest_098_Nashrul/Service1/?wsdl" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="6f5dbc5d-0af5-4207-91bb-8f31912c14fd" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceRest_098_Nashrul/Service1/?xsd=xsd0" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="eee58a38-f6ea-4802-bbaf-04069d0b7a0e" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceRest_098_Nashrul/Service1/?disco" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="eac8800c-8367-4ed2-a80c-9dca9307211d" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/ServiceRest_098_Nashrul/Service1/?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
